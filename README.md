@@ -1,2 +1,2 @@
-# calculo
-Programinha desenvolvido em C para fazer o calculo de orçamento.
+# cálculo
+Programinha desenvolvido em C para fazer o cálculo de orçamento.
